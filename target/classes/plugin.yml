@@ -1,0 +1,14 @@
+name: SkyblockClone
+version: '1.0-SNAPSHOT'
+main: me.mrpants98.skyblockclone.SkyblockClone
+api-version: '1.21'
+commands:
+  summontext:
+    description: Summons a text display
+    usage: /<command>
+  reloadmobvalues:
+    description: Reloads the mob values config file
+    usage: /<command>
+  testcritdamage:
+    description: Input a damage value as a argument and it will send back what the damage indicator should be
+    usage: /<command>

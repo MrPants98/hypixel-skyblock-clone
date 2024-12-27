@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkyblockClone:jar">
+    <output-path>$PROJECT_DIR$/../../Hypixel Skyblock/plugins</output-path>
+    <root id="archive" name="SkyblockClone.jar">
+      <element id="module-output" name="SkyblockClone" />
+    </root>
+  </artifact>
+</component>

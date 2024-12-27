@@ -1,0 +1,6 @@
+defense:
+  ZOMBIE: 0
+maxHealth:
+  ZOMBIE: 100
+lvl:
+  ZOMBIE: 1
