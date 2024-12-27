@@ -1,6 +1,6 @@
 
 # A Hypixel Skyblock Clone
- This is as faithful of a recreation as I can. The project is made for spigot or paper 1.21. This is made to finally get good at making plugins and hopefully get a job at Hypixel once I am old enough.
+ This is as faithful of a recreation as I can. The project is made for paper 1.21 but should work on Spigot. This is made to finally get good at making plugins and hopefully get a job at Hypixel once I am old enough.
 
 ## Current implemented features
 - Mobs spawn with a health bar / name tag
